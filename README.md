@@ -11,3 +11,8 @@ In the code section, you'll find how I used the energy consumption dataset for b
 > The supervised and unsupervised machine learning was made using Pandas.
 
 **Keywords**: Systematic Review, Predictive Models, XAI, Anomaly Detection, Smart Cities, Energy Consumption in buildings.
+
+👩🏽‍💻 By: *Andrea Carolina Ramirez Moya*, Master student in Data Science.
+
+👨‍🏫 Universitat de Girona, 2023
+
